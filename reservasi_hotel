@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T01:55:03.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bnQ1jjY90jbzQvLiPaeA" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T02:12:39.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Ni1EW-nhz-mqyHZIbBNX" version="20.8.20" type="github">
   <diagram name="Halaman-1" id="sMEstvlrHc6PysBZeQNG">
-    <mxGraphModel dx="1750" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,13 +29,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PUmW3WJMTGEG7rZwgch--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tZWqJfR6JYml5G4kKygt-12" target="PUmW3WJMTGEG7rZwgch--1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="80" />
+              <mxPoint x="310" y="60" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tZWqJfR6JYml5G4kKygt-12" value="User?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tZWqJfR6JYml5G4kKygt-17" value="Tamu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="303" y="35" width="60" height="30" as="geometry" />
+          <mxGeometry x="299" y="35" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tZWqJfR6JYml5G4kKygt-18" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="248" y="120" width="60" height="30" as="geometry" />
@@ -384,8 +389,17 @@
         <mxCell id="PUmW3WJMTGEG7rZwgch--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PUmW3WJMTGEG7rZwgch--1" target="PUmW3WJMTGEG7rZwgch--9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="60" />
-              <mxPoint x="430" y="80" />
+              <mxPoint x="440" y="60" />
+              <mxPoint x="440" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PUmW3WJMTGEG7rZwgch--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PUmW3WJMTGEG7rZwgch--1" target="PUmW3WJMTGEG7rZwgch--14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="100" />
+              <mxPoint x="420" y="160" />
+              <mxPoint x="440" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -396,19 +410,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PUmW3WJMTGEG7rZwgch--4" value="Mengambil data detail transaksi berdasarkan nama pemesan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="607" y="47.5" width="130" height="65" as="geometry" />
+          <mxGeometry x="650" y="47.5" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="PUmW3WJMTGEG7rZwgch--7" value="Data detail transaksi" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="55" width="100" height="50" as="geometry" />
+          <mxGeometry x="840" y="55" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PUmW3WJMTGEG7rZwgch--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PUmW3WJMTGEG7rZwgch--9" target="PUmW3WJMTGEG7rZwgch--4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PUmW3WJMTGEG7rZwgch--9" value="Data nama pemesan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="439" y="50" width="141" height="60" as="geometry" />
+          <mxGeometry x="458.96" y="50" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PUmW3WJMTGEG7rZwgch--14" value="Mengambil data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="140" width="100" height="50" as="geometry" />
+        <mxCell id="PUmW3WJMTGEG7rZwgch--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PUmW3WJMTGEG7rZwgch--14" target="PUmW3WJMTGEG7rZwgch--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUmW3WJMTGEG7rZwgch--14" value="Mengambil data tipe kamar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="135" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PUmW3WJMTGEG7rZwgch--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PUmW3WJMTGEG7rZwgch--16" target="PUmW3WJMTGEG7rZwgch--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUmW3WJMTGEG7rZwgch--16" value="Data detail tipe kamar" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="135" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PUmW3WJMTGEG7rZwgch--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PUmW3WJMTGEG7rZwgch--20" target="PUmW3WJMTGEG7rZwgch--23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUmW3WJMTGEG7rZwgch--20" value="Mengambil data kamar berdasarkan tipe kamar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="697" y="127.5" width="113" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="PUmW3WJMTGEG7rZwgch--23" value="Data kamar berdasarkan tipe kamar" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="135" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
